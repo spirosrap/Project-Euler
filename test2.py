@@ -1,5 +1,7 @@
-import prime
+from prime import Prime
 
 p = Prime()
-f = p.factor(n)
-L = p.factorize(147)
+f = p.factor(45)
+L = p.factorize(45)
+
+print f,L
