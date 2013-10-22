@@ -17,4 +17,3 @@ for p100 in range(0,3):
 								sum+=1
 							
 print sum
-
